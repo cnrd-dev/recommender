@@ -11,7 +11,7 @@ The main file is a Jupyter Notebook called `Recommendations_with_IBM.ipynb`. The
 
 ## Results
 
-Various recommendation models was tested and the accuracy of recommendations may not be good as there is a large imbalance in the dataset. Content based recommendations were not included but may provide better recommendations, especially for new users.
+Various recommendation models was tested and the accuracy of recommendations may not be good as there is a large imbalance in the dataset. Content based recommendations were not included but may provide better recommendations, especially for new users. A/B testing can be used to test the various recommender systems to which ones gives a better click through rate, meaning more relevant recommendations for the users.
 
 ## Instructions
 
